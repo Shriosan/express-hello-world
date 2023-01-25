@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Tecnologias Emergentes!
     </section>
   </body>
 </html>
